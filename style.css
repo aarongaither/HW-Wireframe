@@ -1,7 +1,6 @@
 body { 
 	background-color: #777;
 	font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
-
 	color: #777;
 	width: 960px;
 	text-align: center;
@@ -33,10 +32,6 @@ footer {
 	margin: 20px 0;
 }
 
-article {
-	background-color: #777;
-}
-
 h1, h2, h3, p {
 	font-size: 14px;
 	background-color: #ebebeb;
@@ -48,7 +43,6 @@ section {
 	width: 495px;
 	float: left;
 	padding: 20px 10px;
-/*	margin-right: 20px;*/
 	height: 100%;
 }
 
@@ -59,6 +53,7 @@ aside {
 }
 
 article {
+	background-color: #777;
 	color: #ebebeb;
 	text-align: center;
 	padding: 10px;
